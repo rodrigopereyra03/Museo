@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1668111417 source:c:\users\rodri\documents\rodrigo\rodrigo\facultad\programacion 2022\parcialrecudellunes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"museo.h"
+
+1668111417 c:\users\rodri\documents\rodrigo\rodrigo\facultad\programacion 2022\parcialrecudellunes\museo.h
+
+1668111967 source:c:\users\rodri\documents\rodrigo\rodrigo\facultad\programacion 2022\parcialrecudellunes\museo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"museo.h"
+	"director.h"
+	"obras.h"
+
+1668111562 source:c:\users\rodri\documents\rodrigo\rodrigo\facultad\programacion 2022\parcialrecudellunes\director.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"director.h"
+
+1668109008 c:\users\rodri\documents\rodrigo\rodrigo\facultad\programacion 2022\parcialrecudellunes\director.h
+
+1668111538 source:c:\users\rodri\documents\rodrigo\rodrigo\facultad\programacion 2022\parcialrecudellunes\obras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"obras.h"
+
+1668111417 c:\users\rodri\documents\rodrigo\rodrigo\facultad\programacion 2022\parcialrecudellunes\obras.h
+
